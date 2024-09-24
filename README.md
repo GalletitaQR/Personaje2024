@@ -32,7 +32,7 @@ Imagen del personaje
 # Modulo 3
 ![image](https://github.com/user-attachments/assets/656958a0-2446-460b-8fc5-9cedb17fae64)
 # Modulo 4
-
+![image](https://github.com/user-attachments/assets/0b0f2f08-e9d8-4cba-a254-86b1a6818bc8)
 # Modulo 5
 
 # Exámen final
