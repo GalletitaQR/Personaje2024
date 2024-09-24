@@ -34,5 +34,7 @@ Imagen del personaje
 # Modulo 4
 ![image](https://github.com/user-attachments/assets/0b0f2f08-e9d8-4cba-a254-86b1a6818bc8)
 # Modulo 5
-
+![image](https://github.com/user-attachments/assets/293373b4-0eee-48f1-a8ac-c5cbaa0d64c4)
 # Exámen final
+![image](https://github.com/user-attachments/assets/09eae099-a483-4053-a4d5-990a611960fc)
+
