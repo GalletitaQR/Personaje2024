@@ -21,6 +21,9 @@ Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a
 Imagen del personaje
 
 ## Enlaces de la simulación del wokwi
+### Proyecto Integrado: Sistema de Monitoreo y Control con Interfaz Inteligente
+https://wokwi.com/projects/409843594469009409
+### Componente visual que representa un personaje navideño.
 
 ## Videos
 
