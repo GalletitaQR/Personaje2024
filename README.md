@@ -20,7 +20,9 @@ y podrá ser controlado por control.
 ## Software a utilizar
 |Arduino IDE|2.3.3|
 ## Dibujo del personaje
-Imagen del personaje
+![image](https://github.com/user-attachments/assets/e2b659b6-e021-4cf7-8797-039d2e0f24f9)
+#### Lo que se espera
+![image](https://github.com/user-attachments/assets/cc6b8361-98f1-4f36-a447-8a3c36b9924f)
 
 ## Enlaces de la simulación del wokwi
 ### Proyecto Integrado: Sistema de Monitoreo y Control con Interfaz Inteligente
