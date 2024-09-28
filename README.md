@@ -32,9 +32,9 @@ https://wokwi.com/projects/410231766567713793
 ![image](https://github.com/user-attachments/assets/373dedb0-c671-4c28-a165-3a2ea2561495)
 ## Videos
 ### Proyecto Integrado: Sistema de Monitoreo y Control con Interfaz Inteligente
-
+https://drive.google.com/file/d/1PPUHrJoblD2l9IRQGHo-oQYvlquCw2Ko/view?usp=sharing
 ### Componente visual que representa un personaje navideño.
-
+https://drive.google.com/file/d/1SFE8bCn3_4MJ6rXBQUlKlFRQEuS_Z4IM/view?usp=sharing
 ## Imágen de la captura de pantalla de los examenes de cisco C
 ### Modulo 1
 ![image](https://github.com/user-attachments/assets/8eb709b4-9eed-48b5-b1b0-8d1e88a135e8)
