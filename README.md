@@ -7,7 +7,9 @@ Reno Demonio
 Gael Quintana Romero
 
 ## Expliacación de funcionamiento del personaje:
-Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a bailar (luz, sonido y movimiento)
+Mi personaje al momento de que se acerca a 15 centimetros una persona o darle click
+a un botón, comienza a bailar y cantar de una manera muy fea. También se alumbrará
+y podrá ser controlado por control.
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
@@ -16,7 +18,7 @@ Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a
 |HC-SR04|<img src="https://github.com/user-attachments/assets/f0885ad1-58f5-431d-828b-bf01f25ffe03" width="120"/>|1|$130|
 
 ## Software a utilizar
-|Software|Version|
+|Arduino IDE|2.3.3|
 ## Dibujo del personaje
 Imagen del personaje
 
@@ -29,6 +31,9 @@ https://wokwi.com/projects/409843594469009409
 https://wokwi.com/projects/410231766567713793
 ![image](https://github.com/user-attachments/assets/373dedb0-c671-4c28-a165-3a2ea2561495)
 ## Videos
+### Proyecto Integrado: Sistema de Monitoreo y Control con Interfaz Inteligente
+
+### Componente visual que representa un personaje navideño.
 
 ## Imágen de la captura de pantalla de los examenes de cisco C
 ### Modulo 1
