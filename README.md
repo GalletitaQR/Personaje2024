@@ -26,7 +26,8 @@ https://wokwi.com/projects/409843594469009409
 ![image](https://github.com/user-attachments/assets/7cdb1d26-2811-48f0-84f6-b09108106fdc)
 
 ### Componente visual que representa un personaje navideño.
-
+https://wokwi.com/projects/410231766567713793
+![image](https://github.com/user-attachments/assets/373dedb0-c671-4c28-a165-3a2ea2561495)
 ## Videos
 
 ## Imágen de la captura de pantalla de los examenes de cisco C
